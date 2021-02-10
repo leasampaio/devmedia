@@ -1,1 +1,1 @@
-# Atividades do Curso de Angular da dadevmedia
+# Atividades do Curso de Angular da DevMedia
